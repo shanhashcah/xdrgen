@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "xdrgen"
   spec.version       = Xdrgen::VERSION
   spec.authors       = ["Scott Fleckenstein"]
-  spec.email         = ["scott@stellar.org"]
+  spec.email         = ["sweta@hashcashconsultants.com"]
   spec.summary       = %q{An XDR code generator}
-  spec.homepage      = "http://github.com/stellar/xdrgen"
+  spec.homepage      = "http://github.com/swetakedia/xdrgen"
   spec.license       = "ISC"
 
   spec.files         = `git ls-files -z`.split("\x0")

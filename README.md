@@ -1,7 +1,7 @@
 # Xdrgen
 
-[![Build Status](https://travis-ci.org/stellar/xdrgen.svg)](https://travis-ci.org/stellar/xdrgen)
-[![Code Climate](https://codeclimate.com/github/stellar/xdrgen/badges/gpa.svg)](https://codeclimate.com/github/stellar/xdrgen)
+
+
 
 `xdrgen` is a code generator that takes XDR IDL files (`.x` files) as specfified
 in [RFC 4506](http://tools.ietf.org/html/rfc4506.html) and spits code out in
@@ -13,8 +13,7 @@ various languages.
 
 Xdrgen is a very early project.  Aside from the test fixtures in
 [spec/fixtures](spec/fixtures), the only .x files that have been thrown at it
-are the .x files used for the
-[stellar-core project](https://github.com/stellar/stellar-core).
+are the .x files used for the [core project]
 
 Xdrgen presently supports three output languages:  ruby, javacript, java, and golang:
 

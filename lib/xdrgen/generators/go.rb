@@ -347,7 +347,7 @@ module Xdrgen
             "io"
             "fmt"
 
-            "github.com/stellar/go-xdr/xdr3"
+            "github.com/swetakedia/go-xdr/xdr3"
           )
 
           // Unmarshal reads an xdr element from `r` into `v`.
